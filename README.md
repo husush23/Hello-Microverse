@@ -73,6 +73,12 @@ You can deploy this project using any hosting server in the world
 - Twitter: [@twitterhandle](https://twitter.com/HusseinKadare2)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/hussein-kadare-8aa1361a8/)
 
+<!-- FUTURE FEATURES -->
+
+## 🔭 Future Features <a name="future-features"></a>
+
+- [ ] **Full website**
+
 <!-- SUPPORT -->
 
 ## ⭐️ Show your support <a name="support"></a>
