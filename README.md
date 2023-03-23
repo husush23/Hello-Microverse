@@ -24,9 +24,9 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 'Microverse first' project <a name="about-project"></a>
+# 📖 'Hello Microverse' project <a name="about-project"></a>
 
-**Microverse first** is a just test prject for linters configuration and making professional pull rquests and also making professional description messages
+**Hello Microverse** is a test prject for linters configuration and making professional pull rquests and also making professional description messages
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -49,13 +49,24 @@ To get a local copy up and running, follow these steps:
 
 In order to run this project you need: only to clone this github repo
 
+Have some knowledge of HTML and CSS
+
+Be familiar with git commands
+
+Basics understanding of Linters
+
 ### Setup
 
-Clone this repository to your desired folder:git clone <the Repo url>
+Clone this repository to your desired folder:
+
+- cd my-folder
+- git clone https://github.com/husush23/Hello-Microverse.git
 
 ### Install
 
-no installation needed, just clone is enough
+To install this project run this into your terminal:
+
+- git clone https://github.com/husush23/Hello-Microverse.git
 
 ### Deployment
 
